@@ -1,2 +1,2 @@
 # product
-Product was coded in PHP and MySQL, just as a practice exercise. Have a nice day!
+This project was coded in PHP and MySQL, just as a practice exercise. Have a nice day!
